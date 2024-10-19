@@ -35,7 +35,7 @@
 <h2>How to Run</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/azeemhub0677/registration.git</code></pre>
+    <pre><code>git clone https://github.com/azeemhub0677/registration-form.git</code></pre>
   </li>
   <li>Set up a local or remote server with PHP support.</li>
   <li>Place the files in your server’s root directory and open <code>index.html</code> in your browser.</li>
